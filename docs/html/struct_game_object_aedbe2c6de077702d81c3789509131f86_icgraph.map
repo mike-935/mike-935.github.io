@@ -1,0 +1,7 @@
+<map id="GameObject::addComponent" name="GameObject::addComponent">
+<area shape="rect" id="Node000001" title="Add a component to the game object." alt="" coords="229,31,419,56"/>
+<area shape="rect" id="Node000002" href="$struct_game_object.html#a0348e3ee2e83d56eafca7a3547f432c4" title="Construct a new GameObject object." alt="" coords="5,5,181,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,34,181,30,182,25,214,29"/>
+<area shape="rect" id="Node000003" href="$bindings_8cpp.html#a7055eab01d08d97ed2dd849c3e02cda7" title=" " alt="" coords="18,55,168,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,58,169,62,168,57,213,52"/>
+</map>

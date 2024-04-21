@@ -1,0 +1,27 @@
+<map id="GameManager::Instance" name="GameManager::Instance">
+<area shape="rect" id="Node000001" title="Get the Instance object." alt="" coords="459,169,623,195"/>
+<area shape="rect" id="Node000002" href="$struct_texture_component.html#a6d405b92b38b3a0f6116170ec1cb0744" title="Create a texture component." alt="" coords="222,5,400,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="518,158,471,109,442,83,410,60,388,49,390,44,412,55,445,78,475,105,522,155"/>
+<area shape="rect" id="Node000004" href="$struct_input_component.html#a02e9c30b1eb3c8020ab76797242119c2" title="Check if a key is pressed." alt="" coords="211,70,411,96"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="507,162,462,135,410,109,378,99,380,94,412,105,465,130,510,158"/>
+<area shape="rect" id="Node000005" href="$struct_application.html#a6e11ffa4f9a394dbacea590509502c1a" title="loads a scene from a file" alt="" coords="234,120,388,145"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="462,168,374,148,375,143,463,162"/>
+<area shape="rect" id="Node000006" href="$struct_application.html#add8435e8cede1ab06a59cdc220ea394c" title="runs the game loop" alt="" coords="250,169,372,195"/>
+<area shape="poly" id="edge7_Node000001_Node000006" title=" " alt="" coords="444,184,372,184,372,179,444,179"/>
+<area shape="rect" id="Node000007" href="$struct_audio_component.html#acbc6aa0c3c1ad93d4a5a0687e32fb902" title="Play audio from a file path." alt="" coords="218,218,404,244"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="463,201,375,220,374,215,462,196"/>
+<area shape="rect" id="Node000008" href="$struct_application.html#a95f8b7f4d2b8eca24b0a52ff4edd379c" title="starts up the application" alt="" coords="242,268,380,293"/>
+<area shape="poly" id="edge11_Node000001_Node000008" title=" " alt="" coords="510,206,465,233,412,259,380,269,378,264,410,254,462,229,507,201"/>
+<area shape="rect" id="Node000011" href="$struct_texture_component.html#a407011ebf63cbf960accc30f7e8e581a" title="Constructor for our TextureComponent." alt="" coords="220,317,402,358"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="522,209,475,259,445,285,412,308,390,319,388,314,410,303,442,281,471,255,518,205"/>
+<area shape="rect" id="Node000003" href="$bindings_8cpp.html#a7055eab01d08d97ed2dd849c3e02cda7" title=" " alt="" coords="9,120,159,145"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="225,54,212,60,153,91,106,121,103,117,150,87,210,55,223,49"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="234,102,147,121,146,116,233,97"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="219,135,160,135,160,130,219,130"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="235,168,146,148,147,143,236,163"/>
+<area shape="poly" id="edge10_Node000007_Node000003" title=" " alt="" coords="227,216,210,209,149,179,102,148,105,143,152,174,212,205,229,211"/>
+<area shape="rect" id="Node000009" href="$struct_application.html#afa8cc05ce6b6092be5ecdfdae44e05f8" title="Application Constructor." alt="" coords="5,244,163,269"/>
+<area shape="poly" id="edge12_Node000008_Node000009" title=" " alt="" coords="226,274,163,267,163,262,227,269"/>
+<area shape="rect" id="Node000010" href="$struct_application.html#a206cea7fb4750999f21d004e2f466bdd" title="Application Constructor." alt="" coords="5,293,163,319"/>
+<area shape="poly" id="edge13_Node000008_Node000010" title=" " alt="" coords="227,292,163,300,163,294,226,287"/>
+</map>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Marvel Snap</title>
+    <title>Astral Game Engine</title>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,6 +13,62 @@
     <title>Document</title>
 </head>
 <body>
-    <div></div>
+    <div>
+        <header class="w3-container w3-theme w3-blue" style="padding:64px 32px">
+            <h1 class="w3-xxxlarge">Building Game Engines Final Project</h1>
+            <h2 class="w3-large">Astral Engine</h2>
+            <h3 class="w3-medium">By Michael Haile</h3>
+          </header>
+        <div id="Trailer-Section" class="w3-center">
+            <h2>Trailer</h2>
+            <iframe width=40% height="345" src=""></iframe>
+        </div>
+
+        <div id="Game-Section" class="w3-center">
+                <h2>Gameplay</h2>
+                <img src="images/MainMenu.png" alt="MainMenu" class="w3-margin-right" width=40%>
+                <img src="images/Scene1.png" alt="Scene1" width=40%>
+        </div>
+
+        <div id="SceneEditor-Section" class="w3-center">
+            <h2>Scene Editor</h2>
+            <img src="images/SceneEditor.png" alt="SceneEditor" class="w3-margin-right" width=40%>
+            <img src="images/SceneEditorHelpMenu.png" alt="SceneEditorHelpMenu" width=40%>
+        </div>
+
+        <div id="Engine-Diagram" class="w3-center">
+            <a href="docs/html/annotated.html" class="Engine-Documentation"><h2>Engine Documentation</h2></a>
+        </div>
+
+        <div class="w3-center">
+            <img src="images/EngineDiagram.png" alt="EngineDiagram" class="" width=40%>
+        </div>
+
+        <div id="Binary-Download" class="w3-center">
+            <a href="bin/mygameengine.so" class="Binary-Link" download><h2>Binary Download for MacOS</h2></a>
+        </div>
+
+        <div>
+            <footer class="w3-container w3-theme w3-blue" style="padding:32px">
+                <h3>Post Mortem</h3>
+                <p>Given more time I think I would have just added in some simple things that most engines have, stuff like an OnStart or OnAwake thats basically and object's constructor. 
+                    I have been trying to recreate stuff that you might see in an engine like Unity. So things like onCollisionEnter, onCollisionStay, onCollisionLeave (and ones for triggers) are some of the things I think my engine should have.
+                    Some of these things are simple and wouldn't take too much time to implement so I might've been able to get it done but with more time I could add even more of these features so my engine feels a lot more user friendly and open to more types of games.
+                    I also would've liked to clean up my load scene, or anything relating to how I save and load my data from a file. I don't really know how to do it without expecting certain components and kind of hard coding things but I would've liked to have come up with a better system that is a little more flexible and less specific.
+                    Additionally, I had child objects and a parent object field in my gameobjects but it doesn't do anything so in the future I would've wanted to do something with that.
+                </p>
+                <br/>
+                <p>I also think my scene editor could definitely use some work. Same as this website, I don't really like the UI and how it looks. I'm not good with making good looking UI so with extra time I would like to have designed the tool to look a little nicer. Also more utility to it, I really didn't know what to add to it because as I said I was modeling off of other engines like Unity, but I can't make my scene editor look as nice as theirs.
+                    I didn't really know what to add besides adding and removing. I could've added a duplicate button which would've been easy but as I said I don't like how the UI looks, the way i just have like 2 buttons on top of almost all the columns would've been even uglier if I added a third button. But that duplicate button would have been useful cause sometimes it was easier to duplicate an object in the json itself. I guess that makes me think that another good functionality to add is editing the string rather than just having to update it.
+                    Also going back to how i said previously I didn't like how I saved and loaded scenes, so I would also have to edit that here if I figured out a new way.
+                </p>
+                <br/>
+                <p>SDL3 has not the best online resources and documentation outside their wiki so it was a struggle figuring some things out (especially audio). I mainly say this because I wish I was able to get text to print to the screen. I know SDL2 has SDL_TTF but I couldn't get the SDL3 version working.
+                   So I had to resort to using images of words to print to the screen. 
+                </p>
+            </footer>
+        </div>
+        
+    </div>
 </body>
 </html>

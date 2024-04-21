@@ -1,0 +1,5 @@
+<map id="Scene::removeGameObject" name="Scene::removeGameObject">
+<area shape="rect" id="Node000001" title="Remove a game object from the scene." alt="" coords="168,5,350,31"/>
+<area shape="rect" id="Node000002" href="$struct_scene.html#aa3add49578abdf4d3fd3fb47192d6e8e" title="Clean up all game objects in the garbage pool." alt="" coords="5,5,120,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,21,120,21,120,16,152,16"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="AudioComponent::playAudio" name="AudioComponent::playAudio">
+<area shape="rect" id="Node000001" title="Play audio from a file path." alt="" coords="5,5,192,31"/>
+<area shape="rect" id="Node000002" href="$class_game_manager.html#a93200c9c8f3a95e1beefc76022c44263" title="Get the Instance object." alt="" coords="240,5,404,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,16,224,16,224,21,192,21"/>
+</map>

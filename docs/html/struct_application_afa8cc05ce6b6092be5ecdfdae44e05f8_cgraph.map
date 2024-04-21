@@ -1,0 +1,15 @@
+<map id="Application::Application" name="Application::Application">
+<area shape="rect" id="Node000001" title="Application Constructor." alt="" coords="5,104,163,130"/>
+<area shape="rect" id="Node000002" href="$struct_application.html#a95f8b7f4d2b8eca24b0a52ff4edd379c" title="starts up the application" alt="" coords="211,104,349,130"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,114,195,114,195,120,163,120"/>
+<area shape="rect" id="Node000003" href="$class_game_manager.html#af95e6a3920589521a033c0db693646df" title="Add a scene to the GameManager&#39;s scene list." alt="" coords="414,5,586,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="296,101,340,70,396,40,413,33,414,38,398,45,343,75,299,106"/>
+<area shape="rect" id="Node000004" href="$class_game_manager.html#a93200c9c8f3a95e1beefc76022c44263" title="Get the Instance object." alt="" coords="418,55,582,80"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="340,101,424,82,425,87,341,106"/>
+<area shape="rect" id="Node000005" href="$class_game_manager.html#a12a7d8961be4ef5aefa7e000542f1954" title="Set the audio device for the gamemanager." alt="" coords="397,104,603,130"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="349,114,382,114,382,120,349,120"/>
+<area shape="rect" id="Node000006" href="$class_game_manager.html#a2f3fa3ef4ed6cca8ad6adfe9515067f1" title="Set the renderer for the gamemanager." alt="" coords="408,153,593,179"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="341,128,425,147,424,152,340,133"/>
+<area shape="rect" id="Node000007" href="$class_game_manager.html#a2406673f758c5043bf2ceba10c312fb3" title="Tell the gamemanager the screen size." alt="" coords="401,203,600,228"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="299,128,343,159,398,189,414,195,413,200,396,194,340,163,296,132"/>
+</map>

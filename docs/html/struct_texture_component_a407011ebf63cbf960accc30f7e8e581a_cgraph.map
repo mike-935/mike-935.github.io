@@ -1,0 +1,7 @@
+<map id="TextureComponent::TextureComponent" name="TextureComponent::TextureComponent">
+<area shape="rect" id="Node000001" title="Constructor for our TextureComponent." alt="" coords="5,23,188,64"/>
+<area shape="rect" id="Node000002" href="$class_game_manager.html#a6a3ea8d92ca79158eff7bcdda4d0c22d" title="Get the current renderer." alt="" coords="236,5,464,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,32,220,28,220,34,189,37"/>
+<area shape="rect" id="Node000003" href="$class_game_manager.html#a93200c9c8f3a95e1beefc76022c44263" title="Get the Instance object." alt="" coords="268,55,432,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="189,50,252,56,252,61,188,55"/>
+</map>

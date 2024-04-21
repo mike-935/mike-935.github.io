@@ -1,0 +1,7 @@
+<map id="InputComponent::getKeyDown" name="InputComponent::getKeyDown">
+<area shape="rect" id="Node000001" title="Check if a key is pressed." alt="" coords="5,31,206,56"/>
+<area shape="rect" id="Node000002" href="$class_game_manager.html#ab2ee934e8c7a22dd8910b10347df26c5" title="Get the input keys." alt="" coords="254,5,445,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,30,237,27,238,32,207,36"/>
+<area shape="rect" id="Node000003" href="$class_game_manager.html#a93200c9c8f3a95e1beefc76022c44263" title="Get the Instance object." alt="" coords="267,55,432,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="207,51,252,55,251,61,206,56"/>
+</map>

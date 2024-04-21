@@ -1,0 +1,15 @@
+<map id="Application::Loop" name="Application::Loop">
+<area shape="rect" id="Node000001" title="runs the game loop" alt="" coords="5,129,127,155"/>
+<area shape="rect" id="Node000002" href="$struct_application.html#a2874c2b6c9a3b460902a8e0496494cc5" title="cleans up all game objects in the garbage pool of the current scene" alt="" coords="198,5,339,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,127,115,84,143,60,173,40,184,35,186,39,176,44,146,64,119,88,80,131"/>
+<area shape="rect" id="Node000003" href="$struct_application.html#aef425d5f9773014e73262c05c8f8b0ea" title="handles the input for the application every tick" alt="" coords="207,55,330,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="91,126,174,89,193,83,195,88,176,94,93,131"/>
+<area shape="rect" id="Node000004" href="$class_game_manager.html#a93200c9c8f3a95e1beefc76022c44263" title="Get the Instance object." alt="" coords="186,104,351,130"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="127,132,171,126,171,132,128,137"/>
+<area shape="rect" id="Node000005" href="$struct_application.html#a6f40ffdb97f3a938ae19ea4eae4882ed" title="renders the application every tick" alt="" coords="201,153,336,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="128,147,185,154,185,159,127,152"/>
+<area shape="rect" id="Node000006" href="$class_game_manager.html#a0a22a810427370cab38f9a91070bb000" title="Set the current scene index for gamemanager to store." alt="" coords="175,203,362,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="94,153,176,189,195,195,193,200,174,194,92,158"/>
+<area shape="rect" id="Node000007" href="$struct_application.html#acdac3e501d813a5316b5c3f620157235" title="runs the update for the application every tick" alt="" coords="201,252,336,278"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="80,154,119,196,146,219,176,239,188,244,185,249,173,243,143,223,116,200,76,157"/>
+</map>

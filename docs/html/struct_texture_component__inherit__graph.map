@@ -1,0 +1,5 @@
+<map id="TextureComponent" name="TextureComponent">
+<area shape="rect" id="Node000001" title="The TextureComponent class is a component that allows us to render textures for our game objects." alt="" coords="5,219,185,504"/>
+<area shape="rect" id="Node000002" href="$struct_component.html" title="This is the base class for all components." alt="" coords="42,5,149,171"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,186,98,219,93,219,93,186"/>
+</map>

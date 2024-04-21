@@ -1,0 +1,8 @@
+<map id="GameObject::getComponent" name="GameObject::getComponent">
+<area shape="rect" id="Node000001" title="Get a component from the game object." alt="" coords="439,31,626,56"/>
+<area shape="rect" id="Node000002" href="$struct_game_object.html#aeb5fe8fdba6458b016e5b24f226263a9" title="Check if the game object is colliding with another game object." alt="" coords="204,5,391,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="423,34,391,31,392,26,424,29"/>
+<area shape="rect" id="Node000003" href="$bindings_8cpp.html#a7055eab01d08d97ed2dd849c3e02cda7" title=" " alt="" coords="5,31,156,56"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="424,46,156,46,156,41,424,41"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="189,34,156,37,156,32,188,28"/>
+</map>

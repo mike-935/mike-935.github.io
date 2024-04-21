@@ -1,0 +1,9 @@
+<map id="GameManager::getCurrentRenderer" name="GameManager::getCurrentRenderer">
+<area shape="rect" id="Node000001" title="Get the current renderer." alt="" coords="434,46,662,72"/>
+<area shape="rect" id="Node000002" href="$struct_texture_component.html#a6d405b92b38b3a0f6116170ec1cb0744" title="Create a texture component." alt="" coords="206,5,384,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="430,46,384,40,385,35,431,41"/>
+<area shape="rect" id="Node000004" href="$struct_texture_component.html#a407011ebf63cbf960accc30f7e8e581a" title="Constructor for our TextureComponent." alt="" coords="204,71,386,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="427,77,387,82,386,77,426,72"/>
+<area shape="rect" id="Node000003" href="$bindings_8cpp.html#a7055eab01d08d97ed2dd849c3e02cda7" title=" " alt="" coords="5,13,156,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="190,28,156,28,156,23,190,23"/>
+</map>

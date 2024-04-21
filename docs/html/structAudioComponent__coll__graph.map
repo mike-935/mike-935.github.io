@@ -1,0 +1,5 @@
+<map id="AudioComponent" name="AudioComponent">
+<area shape="rect" id="Node000001" title="The Audio Component class provides the functionality for a gameobject to play audio." alt="" coords="5,79,127,105"/>
+<area shape="rect" id="Node000002" href="$structComponent.html" title="This is the base class for all components." alt="" coords="22,5,110,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="69,46,69,79,63,79,63,46"/>
+</map>

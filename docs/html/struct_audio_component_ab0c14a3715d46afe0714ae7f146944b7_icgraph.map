@@ -1,0 +1,7 @@
+<map id="AudioComponent::stopAllAudio" name="AudioComponent::stopAllAudio">
+<area shape="rect" id="Node000001" title="Stop all audio." alt="" coords="291,31,493,56"/>
+<area shape="rect" id="Node000002" href="$bindings_8cpp.html#a7055eab01d08d97ed2dd849c3e02cda7" title=" " alt="" coords="49,5,199,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="275,35,199,28,200,23,276,30"/>
+<area shape="rect" id="Node000003" href="$struct_audio_component.html#a68bf2351458d61601aad7abeb3f58588" title="Deconstructor for the Audio Component." alt="" coords="5,55,243,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="276,57,243,59,243,54,275,51"/>
+</map>

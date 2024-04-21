@@ -1,0 +1,5 @@
+<map id="GUIDGenerator::Instance" name="GUIDGenerator::Instance">
+<area shape="rect" id="Node000001" title="Get the Instance object." alt="" coords="229,5,399,31"/>
+<area shape="rect" id="Node000002" href="$struct_game_object.html#a0348e3ee2e83d56eafca7a3547f432c4" title="Construct a new GameObject object." alt="" coords="5,5,181,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,21,181,21,181,16,213,16"/>
+</map>

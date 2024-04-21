@@ -1,0 +1,7 @@
+<map id="Application::StartUp" name="Application::StartUp">
+<area shape="rect" id="Node000001" title="starts up the application" alt="" coords="211,31,349,56"/>
+<area shape="rect" id="Node000002" href="$struct_application.html#afa8cc05ce6b6092be5ecdfdae44e05f8" title="Application Constructor." alt="" coords="5,5,163,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="195,35,163,31,163,26,196,30"/>
+<area shape="rect" id="Node000003" href="$struct_application.html#a206cea7fb4750999f21d004e2f466bdd" title="Application Constructor." alt="" coords="5,55,163,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,56,163,60,163,55,195,51"/>
+</map>
